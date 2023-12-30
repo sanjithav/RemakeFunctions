@@ -1,9 +1,3 @@
-# File: MyListFunctions.py
-# Student: Sanjitha Venkata
-# UT EID: sv28325
-# Course Name: CS303E
-# 
-# Date: 10/24/2023
 # Description of Program: Multiple functions that run actions on lists.
 
 def myAppend( lst, x ):
