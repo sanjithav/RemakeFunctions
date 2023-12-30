@@ -1,9 +1,3 @@
-# File: RecursiveFunctions.py
-# Student: Sanjitha Venkata
-# UT EID: sv28325
-# Course Name: CS303E
-# 
-# Date: 11/8/2023
 # Description of Program: Multiple functions defined using recursion to add input, find sums, convert to binary, check symmetry, etc.
 
 def sumItemsInList( L ):
