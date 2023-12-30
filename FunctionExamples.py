@@ -1,9 +1,3 @@
-# File: FunctionExamples.py
-# Student: Sanjitha Venkata
-# UT EID: sv28325
-# Course Name: CS303E
-# 
-# Date Created: 9/22/2023
 # Description of Program: Coded multiple functions that perform different math calculations for the most part. 
 
 import math
