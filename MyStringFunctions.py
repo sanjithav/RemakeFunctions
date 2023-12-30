@@ -1,9 +1,3 @@
-# File: MyStringFunctions.py
-# Student: Sanjitha Venkata
-# UT EID: sv28325
-# Course Name: CS303E
-# 
-# Date: 10/11/2023
 # Description of Program: Multiple functions are defined to manipulate strings. 
 
 def myAppend( s, ch ):
